@@ -7,7 +7,7 @@
 - 👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing
 - 📫 How to reach me **milinda.msd@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Media</h3>
 <p align="left">
 <a href="https://twitter.com/milindashehan20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milindashehan20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/milinda-shehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milinda-shehan" height="30" width="40" /></a>
