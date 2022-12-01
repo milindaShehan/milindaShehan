@@ -1,9 +1,19 @@
-- 👋 Hi, I’m Milinda Shehan
-- 👀 I’m interested in software developing
-- 🌱 I’m I’m a Computer Science undergraduate in University of Colombo School of Computing
-- 📫  You can reach me via Facebook: Milinda Shehan | instagram:milinda_shehan_ | Linkedin: milinda-shehan
+<h1 align="center">Hi 👋, I'm Milinda Shehan</h1>
+<h3 align="center">Computer Science Undergraduate</h3>
 
-<!---
-milindaShehan/milindaShehan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🌱 I’m currently learning **Computer Science**
+- 👀 I’m interested in **software developing**
+- 👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing
+- 📫 How to reach me **milinda.msd@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/milindashehan20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milindashehan20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/milinda-shehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milinda-shehan" height="30" width="40" /></a>
+<a href="https://fb.com/milinda shehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="milinda shehan" height="30" width="40" /></a>
+<a href="https://instagram.com/milinda_shehan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milinda_shehan_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
