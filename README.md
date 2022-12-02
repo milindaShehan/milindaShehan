@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milinda Shehan</h1>
-<h3 align="center">Computer Science Undergraduate</h3>
+<h4 align="center">Computer Science Undergraduate</h4>
 
 
 - 🌱 I’m currently learning **Computer Science**
