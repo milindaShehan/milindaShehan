@@ -3,8 +3,8 @@
 
 
 - 🌱 I’m currently learning **Computer Science**
-- 👀 I’m interested in **software developing**
-- 👨‍💻 I’m a Computer Science undergraduate at the University of Colombo School of Computing
+- 👀 I’m interested in **software developing** , **graphic designing** , **Machine Learning**
+- 👨‍💻 I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing**
 - 📫 How to reach me **milinda.msd@gmail.com**
 
 <h3 align="left">Social Media</h3>
