@@ -26,3 +26,4 @@
 <img src="https://komarev.com/ghpvc/?username=milindaShehan&style=flat-square&color=blue" alt=""/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milindaShehan&theme=hacker&hide_border=true&border_radius=4.1&background=0E000000)](https://git.io/streak-stats)
