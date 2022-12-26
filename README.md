@@ -26,4 +26,18 @@
 <img src="https://komarev.com/ghpvc/?username=milindaShehan&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milindaShehan&theme=hacker&hide_border=true&border_radius=4.1&background=0E000000)](https://git.io/streak-stats)
+
+
+
+
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milindaShehan&theme=github_dark"/> </p>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milindaShehan&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milindaShehan&theme=github_dark"/>
+</div>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=milindaShehan&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)](https://git.io/streak-stats)
+
+</div>
