@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h3 align="center">Computer Science Undergraduate | Microsoft Learn Student Ambassador </h3>
+<h3 align="center">Computer Science Undergraduate | MLSA </h3>
 
 
 - 🌱 I’m currently learning **Computer Science**
