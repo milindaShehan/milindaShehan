@@ -20,12 +20,12 @@
   <a href="https://stackoverflow.com/users/20905020/milinda-shehan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="milinda_shehan_" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Tech Stack</h3>
-<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="photoshop" width="40" height="40"/> </a>
+<h3 align="left">Technologies and Tools</h3>
+<p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="c++" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a>  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scala-Dark.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/> </a> 
 <a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/> </a>
 <a href="https://www.html.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" width="40" height="40"/> </a>
@@ -36,12 +36,15 @@
   <a href="https://www.php.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> 
    <a href="https://www.php.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="PHP" width="40" height="40"/> </a>
+  <a href="https://www.r.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="40" height="40"/> </a>
  <a href="https://www.linux.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/> </a>   
- <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a>  
- <a href="https://www.r.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="40" height="40"/> </a> 
+ <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a>   
  <a href="https://www.git.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.git.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.git.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/> </a>
-
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.figma.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="photoshop" width="40" height="40"/> </a>
 </p> 
 <hr>
 
