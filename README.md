@@ -47,6 +47,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.figma.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="photoshop" width="40" height="40"/> </a>
 </p> 
+
 <hr>
 
 <h3 align="center">GitHub Stats</h3>
@@ -58,6 +59,9 @@
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milindaShehan&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milindaShehan&theme=github_dark)|![](https://github-readme-streak-stats.herokuapp.com?user=milindaShehan&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)|
 |---|---|---|
 
+---
+|[![](https://github-readme-activity-graph.vercel.app/graph?username=milindaShehan&theme=github-compact)](https://github.com/milindaShehan/github-readme-activity-graph)|
+|---|
 
   ---
   |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milindaShehan&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milindaShehan&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milindaShehan&theme=github_dark)|
