@@ -21,6 +21,7 @@
 </p>
 <hr>
 <h3 align="left">Technologies and Tools</h3>
+
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="c++" width="40" height="40"/> </a>
@@ -57,13 +58,15 @@
 <img src="https://komarev.com/ghpvc/?username=milindaShehan&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milindaShehan&theme=github_dark"/> </p>
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milindaShehan&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milindaShehan&theme=github_dark"/>
-</div>
-<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=milindaShehan&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)](https://git.io/streak-stats)
+---
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milindaShehan&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milindaShehan&theme=github_dark)|![](https://github-readme-streak-stats.herokuapp.com?user=milindaShehan&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)|
+|---|---|---|
+
+
+  ---
+  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milindaShehan&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milindaShehan&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milindaShehan&theme=github_dark)|
+  |---|---|---|
 
 </div>
+
