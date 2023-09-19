@@ -49,15 +49,10 @@
 </p> 
 <hr>
 
-<br>
-
-
 <h3 align="center">GitHub Stats</h3>
-<br>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=milindaShehan&style=flat-square&color=blue" alt=""/>
 </div>
-<br>
 
 ---
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milindaShehan&theme=github_dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milindaShehan&theme=github_dark)|![](https://github-readme-streak-stats.herokuapp.com?user=milindaShehan&theme=dark&border_radius=7&currStreakLabel=0A7BDD&ring=8BDD6D&background=00000002&fire=077BDD&border=3A3A3A&stroke=3A3A3A)|
