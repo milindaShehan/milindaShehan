@@ -21,8 +21,8 @@
   <a href="https://stackoverflow.com/users/20905020/milinda-shehan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="milinda_shehan_" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Technologies and Tools</h3>
 
+<h3 align="left">Technologies and Tools</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40" /></a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="c++" width="40" height="40" /></a>
