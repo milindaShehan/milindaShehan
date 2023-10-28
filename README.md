@@ -68,5 +68,7 @@
   |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milindaShehan&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milindaShehan&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milindaShehan&theme=github_dark)|
   |---|---|---|
 
+  [![An image of @milindashehan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milindashehan)](https://holopin.io/@milindashehan)
+
 </div>
 
