@@ -7,8 +7,10 @@
 
 
 - 👨‍💻 I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing**
-- 👀 I’m interested in **software developing** , **graphic designing** , **Machine Learning**
-- 📫 How to reach me **milinda.msd@gmail.com**
+- 👀 I’m interested in **software developing**, **graphic designing**, **Machine Learning**
+- 🌐 You can find more about me on my [personal website](https://www.yourwebsite.com)
+- 📫 How to reach me: **milinda.msd@gmail.com**
+
 
 
 <h3 align="left">Social Media</h3>
